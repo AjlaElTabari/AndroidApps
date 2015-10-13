@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Andorid2</string>
+    <string name="title_activity_bmi">bmi</string>
+    <string name="bmi1">Your BMI is lower than normal.</string>
+    <string name="bmi2">Your BMI is normal.</string>
+    <string name="bmi3">Your BMI is higher than normal.</string>
+</resources>
