@@ -16,7 +16,7 @@ public class bmi extends ActionBarActivity {
         TextView tv = (TextView) findViewById(R.id.bmi);
         if (bmi < 20) {
             tv.setText(R.string.bmi1);
-        } else if ()
+        } //else if ()
     }
 
 }
